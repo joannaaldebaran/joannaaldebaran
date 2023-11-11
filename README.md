@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joannaaldebaran
-- 👀 You can see some of my website templates for E-commerce 
+- 👀 You can see some of my website templates 
 - 🌱 I’m working with JavaScript and PHP 
 - 💞️ Love is the way 
 - ✌️ Check out my codes and have fun
