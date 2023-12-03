@@ -7,7 +7,6 @@
 joannaaldebaran/joannaaldebaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I work with 
 
 ![html](https://github.com/joannaaldebaran/joannaaldebaran/assets/76617384/f898defd-4bec-4e9b-9ecc-1614f6504e30)
 
