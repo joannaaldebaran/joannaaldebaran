@@ -8,7 +8,7 @@ joannaaldebaran/joannaaldebaran is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-![html](https://github.com/joannaaldebaran/joannaaldebaran/assets/76617384/f898defd-4bec-4e9b-9ecc-1614f6504e30)
+<img src="html.png" width= "100" height="100">
 
 ![css-3](https://github.com/joannaaldebaran/joannaaldebaran/assets/76617384/4a2caf54-ea30-45d8-9e03-3ee1147a8069)
 
