@@ -8,9 +8,7 @@ joannaaldebaran/joannaaldebaran is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="html.png" width= "100" height="100">
-
-![css-3](https://github.com/joannaaldebaran/joannaaldebaran/assets/76617384/4a2caf54-ea30-45d8-9e03-3ee1147a8069)
+<img src="html.png" width= "100" height="100">  <img src="css-3.png" width= "100" height="100">
 
 
 ![php-programming-language](https://github.com/joannaaldebaran/joannaaldebaran/assets/76617384/4512089f-a0ca-4e75-b8c2-d9ee4d182f79)
